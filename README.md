@@ -1,4 +1,8 @@
-## Hi there 👋
+ ## Hi there 👋, I'm Kalsoom Khan
+
+- 🚀 AI & Machine Learning Enthusiast
+- 💻 Python Developer & Data Science Learner
+- 🌱 Exploring Deep Learning, NLP & Intelligent Solutions
 
 <!--
 **kalsoomkhan20045-svg/kalsoomkhan20045-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
